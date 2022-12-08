@@ -22,7 +22,7 @@ import com.apirest.sisgespro.entity.Aplicativo;
 import com.apirest.sisgespro.entity.Proyecto;
 import com.apirest.sisgespro.services.IAplicativoService;
 
-@CrossOrigin(origins = {"https://controlsbyprojects.azurewebsites.net"})
+
 @RestController
 @RequestMapping("/aplicativo")
 public class AplicativoRestController {

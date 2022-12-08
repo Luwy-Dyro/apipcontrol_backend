@@ -29,7 +29,7 @@ import com.apirest.sisgespro.services.ISectorService;
 import com.apirest.sisgespro.services.ITipoAppService;
 import com.apirest.sisgespro.services.ITipoProyectoService;
 
-@CrossOrigin(origins = {"https://controlsbyprojects.azurewebsites.net"})
+
 @RestController
 @RequestMapping("/datos")
 public class DatosRestController {

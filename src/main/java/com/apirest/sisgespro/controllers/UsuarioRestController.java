@@ -20,7 +20,7 @@ import com.apirest.sisgespro.entity.Usuario;
 import com.apirest.sisgespro.services.IUsuarioService;
 import com.apirest.sisgespro.services.UsuarioService;
 
-@CrossOrigin(origins = {"https://controlsbyprojects.azurewebsites.net"})
+
 @RestController
 @RequestMapping("/usuario")
 public class UsuarioRestController {
